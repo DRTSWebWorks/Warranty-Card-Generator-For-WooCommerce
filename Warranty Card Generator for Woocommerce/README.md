@@ -42,7 +42,7 @@ The PDF uses the same template as the browser view, with additional print rules.
 Edit the inline styles in `drts-warranty-card-generator.php` inside `get_card_markup()` to adjust PDF sizing or layout.
 
 ## Creator
-- Name: TStefanov
+- Name: DRTSWebWorks
 - Contact: Update this section with your preferred details.
 
 ## License
